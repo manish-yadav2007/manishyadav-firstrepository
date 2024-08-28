@@ -1,2 +1,2 @@
-# ManishYadav-my first repository
+# ManishYadav-Demo
 This is my first Git Repository 
